@@ -1,6 +1,6 @@
 Polishchuk Stanislav
 
-Contact info: 0688288644 - Phone number Polishchuk1stas@gmail.com, - Email
+Contact info: 0688288644 - Phone number Polishchuk1stas@gmail.com, - Email, Setir5 - My Discord username
 
 I want to learn how to code and be able to make a website
 
