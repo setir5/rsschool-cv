@@ -1,14 +1,14 @@
-Поліщук Станіслав
+Polishchuk Stanislav
 
-0688288644 - номер телефона, Polishchuk1stas@gmail.com, - емайл
+Contact info: 0688288644 - Phone number Polishchuk1stas@gmail.com, - Email
 
-Хочу научится програмированию и уметь писать сайтьі
+I want to learn how to code and be able to make a website
 
-опьіта не имею, но интересуюсь разньіми материалами для изучения програмирования Javascrypt; также хочу изучить Typescrypt
+I got no experience, but i read some info about Javascrypt; I am also curious about Typescrypt and wish to learn it too
 
-один из кодов на сайте codewars на котором я немного учился Javascript, мой никнейм там : Setir5
+One of the tasks on codewars, a site where i learned a bit about Javascript, my nickname there: Setir5
 
-имя задания на сайте: Training JS #7: if..else and ternary operator
+The name of this task is: Training JS #7: if..else and ternary operator
 
 function saleHotdogs(n){
   if (n<5) {
@@ -23,10 +23,10 @@ function saleHotdogs(n){
 }
 
 
-опьіта работьі тоже нету
+i also got no experience working in serious envirement
 
 
-RSscool - ето первьій курс програмирования на которьій я записался
+RSscool - is the first serious coding course that i decided to try
 
 
-Уровень английского - c1
+English levels - c1, although sometimes got problems with grammar
