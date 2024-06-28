@@ -22,7 +22,6 @@ function saleHotdogs(n){
 }
 }
 
-
 i also got no experience working in serious envirement
 
 
@@ -30,3 +29,5 @@ RSscool - is the first serious coding course that i decided to try
 
 
 English levels - c1, although sometimes got problems with grammar
+
+![0-02-05-646a2f54cd0f45134f7db1ca50945c61f2debaf2e70392dda0368dcb2a3b71f1_7b66737969cca47176](https://github.com/setir5/rsschool-cv/assets/44408783/972eb5de-dd13-4cc5-b100-70fa871a96f5)
